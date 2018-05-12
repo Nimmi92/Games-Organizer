@@ -1,17 +1,17 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-games-organizer",
   "version": "3.5.0",
-  "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
+  "description": "An app to organize games in corporates, to allow people to register for games which they want to take part",
   "repository": {
     "type": "git",
-    "url": "git://github.com/react-boilerplate/react-boilerplate.git"
+    "url": "https://github.com/Nimmi92/Games-Organizer.git"
   },
   "engines": {
     "npm": ">=3",
     "node": ">=5"
   },
-  "author": "Max Stoiber",
-  "license": "MIT",
+  "author": "Nirmaladevi Boopathy",
+  "license": "Nil",
   "scripts": {
     "analyze:clean": "rimraf stats.json",
     "preanalyze": "npm run analyze:clean",
